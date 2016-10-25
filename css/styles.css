@@ -1,0 +1,36 @@
+.jumbotron {
+  background-color: #01AFE3;
+  margin: 0px;
+  text-align: right;
+  font-size: 16px;
+}
+
+.Bluehues {
+  background-image: url("Bluehues.jpg");
+  background-size: cover;
+  max-width: 100%;
+  height: 100%;
+}
+
+.image-background{
+  background: url("Bluehues.jpg");
+  background-size: cover;
+  margin: 100px;
+  max-width: 100%;
+  height: 100%;
+}
+body, html {
+ margin: 0px;
+ height: 100%;
+ font-family:'Indie Flower';
+ font-size: 20px;
+ }
+ .container {
+   margin: 0;
+   width: 100%;
+ }
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
