@@ -36,7 +36,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(255,0);
 
   for(var i = 0; i < bubbles.length; i ++) {
     bubbles[i].display();
